@@ -16,7 +16,7 @@ TODO
 TODO
 
 
-## The Structure and the Interpretation of ARM Assembly
+## The Structure and the Interpretation
 
 TODO
 
