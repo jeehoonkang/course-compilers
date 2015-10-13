@@ -23,7 +23,7 @@ programs in low-level languages, and almost all the programs are
 written in high-level languages and then compiled.
 
 In this course we will study the principle and the practice of
-compilers:
+compiler construction:
 
 - Principle:
 
@@ -32,5 +32,5 @@ compilers:
     + The meaning of translation and its specification
     + Typical organization of compilers
 
-- Practice: building (a subset of) C-to-ARM compilers from the
+- Practice: constructing (a subset of) C-to-ARM compilers from the
   scratch!
