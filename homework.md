@@ -54,15 +54,3 @@ TODO: what is th homework's specification?
 ### Timeline
 
 TODO
-
-
-## Honor Code
-
-*Do not cheat*.  The cheating includes, but not limited to, the
-following activities:
-
-- *Copying other's source code*, including those of fellow students or
-  around the internet.  You can see other's source code, but it is
-  strictly limited to copy as-is.
-
-- TODO

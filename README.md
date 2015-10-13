@@ -5,7 +5,30 @@ Instructor: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang)
 
 ## Contact
 
-[TBA](https://en.wikipedia.org/wiki/To_be_announced)
+- Please ask contents- or homework-related questions in the issue
+  tracker.
+
+    + If you want to post a code snippet, use Markdown's
+      [fenced-code-blocks](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks).
+      *DO NOT upload an image* of it.
+
+    + Pull requests are welcome!
+
+- For personal matters that you do not want to share, send emails to
+  [TBA](https://en.wikipedia.org/wiki/To_be_announced).  Please *do
+  not send emails* to my personal email address.
+
+
+## Honor Code
+
+*Do not cheat*.  The cheating includes, but not limited to, the
+following activities:
+
+- *Copying other's source code*, including those of fellow students or
+  around the internet.  You can see other's source code, but it is
+  strictly limited to copy as-is.
+
+- TODO
 
 
 ## Evaluation
