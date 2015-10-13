@@ -54,3 +54,12 @@ TODO: what is the homework's specification?
 ### Timeline
 
 TODO
+
+
+## Evaluation
+
+TODO
+
+- [FaCSim](http://aces.snu.ac.kr/software/facsim/)
+- For more detail on FaCSim, see
+  [The ARM Assembly Programming Language](the-arm-assembly-programming-language.md).
