@@ -19,7 +19,7 @@
 
 ## Honor Code
 
-*Do not cheat*.  The cheating includes, but not limited to, the
+*DO NOT cheat*.  The cheating includes, but not limited to, the
 following activities:
 
 - *Copying other's source code*, including those of fellow students or
@@ -54,6 +54,7 @@ following activities:
 - [Compiler Organization](compiler-organization.md)
     + [Parsing](parsing.md)
         * [Parser Generator](parser-generator.md)
+    + [Type Checking](type-checking.md)
     + [Intermediate Language](intermediate-language.md)
         * [SSA](ssa.md)
     + [IR Generation](ir-generation.md)

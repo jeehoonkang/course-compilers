@@ -49,7 +49,7 @@ To construct a compiler, typically you should:
 - Do anything you want for your own compiler!
 
 
-TODO: what is th homework's specification?
+TODO: what is the homework's specification?
 
 ### Timeline
 
