@@ -46,8 +46,8 @@ following activities:
 - [Overview](overview.md)
 
 - [Programming Languages](programming-languages.md)
-    + [The C Programming Language](the-c-programming-languages.md)
-    + [The ARM Programming Language](the-arm-programming-languages.md)
+    + [The C Programming Language](the-c-programming-language.md)
+    + [The ARM Assembly Programming Language](the-arm-assembly-programming-language.md)
 
 - [Compilation and its Specification](compilation-and-its-specification.md)
 
