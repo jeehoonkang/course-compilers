@@ -1,7 +1,5 @@
 # Compilers
 
-Instructor: [Jeehoon Kang](http://sf.snu.ac.kr/jeehoon.kang)
-
 
 ## Contact
 
